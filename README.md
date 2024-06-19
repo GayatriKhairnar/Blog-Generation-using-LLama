@@ -21,6 +21,8 @@ Once the application interface loads:
 - Specify the number of words you want the blog to be in the "No of Words" field.
 - Choose the target audience for the blog from the dropdown list under "Writing the blog for".
 - Click on the "Generate" button to initiate the blog generation process.
+![image](https://github.com/GayatriKhairnar/Blog-Generation-using-LLama/assets/45005641/bc389591-34f1-47ce-8039-338a146a4c1e)
+
 
 3. Output
 
@@ -38,3 +40,5 @@ The main functionality of the application is defined in app.py, which includes:
 - Defining a function getLLamaresponse to interact with the LLama 2 model and generate blog content based on user inputs.
 - Setting up the Streamlit interface with input fields for blog topic, word count, and audience selection.
 - Displaying the generated blog post on the web interface upon user request.
+
+
