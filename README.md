@@ -28,6 +28,7 @@ Once the application interface loads:
 
 4. Components
 - LLama 2 Model: The core of this project is the LLama 2 model from Hugging Face, which is used for generating text based on user prompts.
+- Link for model : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q2_K.bin
 - Streamlit: The web application is built using Streamlit, which provides an intuitive and interactive interface for users to input parameters and view generated content.
 
 5. Code Overview
