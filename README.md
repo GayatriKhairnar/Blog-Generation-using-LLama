@@ -1,6 +1,6 @@
 # Blog-Generation-using-LLama
 
-This project utilizes the LLama 2 model from Hugging Face to generate blog posts based on user input. LLama 2 is a language model known for its capabilities in natural language generation tasks.
+This project utilizes the LLama 2 model from Hugging Face to generate project ideas based on user input. LLama 2 is a language model known for its capabilities in natural language generation tasks.
 
 Usage
 To use this application, follow these steps:
@@ -14,12 +14,12 @@ Ensure you have Python installed on your system.
   streamlit run app.py
 - This will start a local server and open the application in your default web browser.
 
-2. Generating Blogs
+2. Generating Project Ideas
 
 Once the application interface loads:
-- Enter the topic for your blog in the "Enter the Blog Topic" text input.
-- Specify the number of words you want the blog to be in the "No of Words" field.
-- Choose the target audience for the blog from the dropdown list under "Writing the blog for".
+- Enter the topic for your blog in the "Enter the Project Topic" text input.
+- Specify the keywords you want the blog to be in the "Keywords" field.
+- Choose the target audience for the blog from the dropdown list under "Writing the project idea for".
 - Click on the "Generate" button to initiate the blog generation process.
 ![image](https://github.com/GayatriKhairnar/Blog-Generation-using-LLama/assets/45005641/bc389591-34f1-47ce-8039-338a146a4c1e)
 
